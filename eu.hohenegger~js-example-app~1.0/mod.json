@@ -1,7 +1,6 @@
 {
-
-"main": "app.js"
-, 
+"main": "app.js",
+"deploys": "eu.hohenegger~java-example-app~1.0",
 "licenses": ["The Apache Software License Version 2.0"],
 "author": "Max Hohenegger"
 }
